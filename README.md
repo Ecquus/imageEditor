@@ -1,3 +1,3 @@
 # imageEditor
 
-    A minimalistic image editor written in C++ using Qt and OpenGL.
+    A simple image editor written in C++ using Qt and OpenGL.
